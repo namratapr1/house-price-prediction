@@ -1,4 +1,18 @@
 # Jyesta Corporate Entity – House Price Prediction
+
+# House Price Prediction System
+
+A machine learning based web application built using Flask and MySQL that predicts house prices based on user inputs such as area, bedrooms, furnishing status, and location.
+
+## Tech Stack
+- Python
+- Flask
+- MySQL
+- Scikit-learn
+- HTML/CSS
+- JavaScript
+
+
 ## Setup Instructions
 
 ### 1. Install Python dependencies
