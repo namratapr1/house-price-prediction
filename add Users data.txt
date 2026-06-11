@@ -1,0 +1,24 @@
+INSERT INTO users (name, email, password, gender) VALUES
+('Rahul Sharma', 'rahul.sharma123@gmail.com', 'rahul@123', 'Male'),
+('Priya Patel', 'priya.patel45@yahoo.com', 'priya@456', 'Female'),
+('Amit Verma', 'amit.verma88@gmail.com', 'amit@789', 'Male'),
+('Sneha Joshi', 'sneha.joshi21@gmail.com', 'sneha@321', 'Female'),
+('Rohan Mehta', 'rohan.mehta67@yahoo.com', 'rohan@654', 'Male'),
+('Neha Gupta', 'neha.gupta99@gmail.com', 'neha@987', 'Female'),
+('Karan Singh', 'karan.singh11@gmail.com', 'karan@111', 'Male'),
+('Pooja Desai', 'pooja.desai55@yahoo.com', 'pooja@222', 'Female'),
+('Arjun Nair', 'arjun.nair77@gmail.com', 'arjun@333', 'Male'),
+('Anjali Iyer', 'anjali.iyer66@gmail.com', 'anjali@444', 'Female');
+
+
+INSERT INTO users (name, email, password) VALUES
+('Ishaan Khanna', 'ishaan.khanna21@gmail.com', 'Ishaan@123'),
+('Ritika Jain', 'ritika.jain34@yahoo.com', 'Ritika#456'),
+('Aditya Nair', 'aditya.nair56@gmail.com', 'Aditya@789'),
+('Meera Iyer', 'meera.iyer78@outlook.com', 'Meera#321'),
+('Siddharth Malhotra', 'siddharth.malhotra90@gmail.com', 'Sid@654'),
+('Kavya Reddy', 'kavya.reddy11@yahoo.com', 'Kavya#987'),
+('Arjun Das', 'arjun.das22@gmail.com', 'Arjun@111'),
+('Nisha Kulkarni', 'nisha.kulkarni33@outlook.com', 'Nisha#222'),
+('Manish Yadav', 'manish.yadav44@gmail.com', 'Manish@333'),
+('Divya Bansal', 'divya.bansal55@yahoo.com', 'Divya#444');
