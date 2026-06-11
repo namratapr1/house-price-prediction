@@ -1,4 +1,4 @@
-# Jyesta Corporate Entity – House Price Prediction
+# Corporate Entity – House Price Prediction
 
 # House Price Prediction System
 
